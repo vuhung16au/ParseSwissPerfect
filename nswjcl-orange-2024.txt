@@ -1,0 +1,40 @@
+No Name                   Intl Id Loc Total  1    2    3    4    5    6    7    8  
+
+1  Singh, Abir Vidhur     9           6.5   14:W  4:W 17:W  8:D  7:W  2:L  5:W  3:W
+2  McLean, Cameron        15      504 6.5   34:W  9:W  5:D 13:W  8:W  1:W  3:L 10:W
+3  Grant, Joshua          16      526 6     32:W 16:W  6:W  7:L 11:W 10:W  2:W  1:L
+4  Kuchits, Neil          7       543 6     29:W  1:L 19:W 27:W  5:L 16:W 11:W  8:W
+5  Cook, Mitchell         17      575 5.5   22:W 28:W  2:D  6:L  4:W  7:W  1:L  9:W
+6  Bouffler, Braydon      15      595 5.5   21:W 10:W  3:L  5:W  9:L 18:W  8:D 14:W
+7  Fowler, Justin         15      569 5.5   31:W 18:W 13:D  3:W  1:L  5:L 12:W 17:W
+8  Prakashbabu, Sarayu    14      702 5     19:W 17:W 12:W  1:D  2:L  9:W  6:D  4:L
+9  Singh, Adir Pratar     7           5     27:W  2:L 15:W 12:W  6:W  8:L 17:W  5:L
+10 Lai, Edward            9       458 5     11:W  6:L 23:W 28:W 14:W  3:L 13:W  2:L
+11 Tanner, Daniel         14          5     10:L 21:W 31:W 18:W  3:L 15:W  4:L 16:W
+12 Munns, Jackson         13      553 4.5   20:W 15:W  8:L  9:L 13:W 14:D  7:L 22:W
+13 Wood, Nicholas         13      492 4.5   35:W 23:W  7:D  2:L 12:L 22:W 10:L 19:W
+14 Robinson, Jake         16      436 4.5    1:L 34:W 24:W 25:W 10:L 12:D 28:W  6:L
+15 Eccleston, Joseph      13      435 4.5   33:W 12:L  9:L 22:D 31:W 11:L 24:W 23:W
+16 Debnath, Kingshuk      12      433 4     26:W  3:L 27:L 24:W 21:W  4:L 20:W 11:L
+17 Christoff, Jayden              472 4     30:W  8:L  1:L 29:W 19:W 27:W  9:L  7:L
+18 Bieniek, Vaughn        14      445 4     25:W  7:L 22:W 11:L 23:W  6:L 19:L 28:W
+19 Butchard, Ethan        12      426 4      8:L 35:W  4:L 20:W 17:L 29:W 18:W 13:L
+20 McAuliffe, Phoenix     10      360 4     12:L 24:L 35:W 19:L 25:W 21:W 16:L 27:W
+21 Teitzel, William       11      390 4      6:L 11:L 32:W 30:W 16:L 20:L 33:W 29:W
+22 Moore, Patrick         10      390 3.5    5:L 30:W 18:L 15:D 26:W 13:L 25:W 12:L
+23 Morcom, Jacob          12          3.5    0:W 13:L 10:L 33:W 18:L 24:D 27:W 15:L
+24 Singhai, Virag         11          3.5   28:L 20:W 14:L 16:L 32:W 23:D 15:L 31:W
+25 Maclean, Albie         10          3.5   18:L 31:D 26:W 14:L 20:L 30:W 22:L 32:W
+26 Ridge, Bertram         7           3.5   16:L 32:D 25:L 34:W 22:L 31:W 29:L  0:W
+27 Rawsthorne, Michael    11          3      9:   0:W 16:W  4:L 28:W 17:L 23:L 20:L
+28 Duggan, Jack                   454 3     24:W  5:L 29:W 10:L 27:L 33:W 14:L 18:L
+29 Chamberlain, James     9       359 3      4:L 33:W 28:L 17:L 30:W 19:L 26:W 21:L
+30 Hopkins, Clyde         7       319 3     17:L 22:L 34:W 21:L 29:L 25:L  0:W 35:W
+31 Fraser, Piper          11      377 2.5    7:L 25:D 11:L 32:W 15:L 26:L 35:W 24:L
+32 Cantelo, Quinton       8       359 2.5    3:L 26:D 21:L 31:L 24:L  0:W 34:W 25:L
+33 Ramsdale Clarke, Angus 8           2.5   15:L 29:L  0:W 23:L 35:W 28:L 21:L 34:D
+34 Duggan, Hazel          7       342 2      2:L 14:L 30:L 26:L  0:W 35:D 32:L 33:D
+35 Lockwood, BIlly        11      341 1.5   13:L 19:L 20:L  0:W 33:L 34:D 31:L 30:L
+36 Whykamp, Carter                    0      0:   0:   0:   0:   0:   0:   0:   0: 
+37 Moore, Joshua          12          0      0:   0:   0:   0:   0:   0:   0:   0: 
+

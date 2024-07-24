@@ -1,0 +1,12 @@
+vhmac:03.SwissPerfect vuhung$ /usr/local/bin/python3 /Users/vuhung/00.Work/99.GenAI/03.SwissPerfect/ParseSwissPerfect.py
+Enter the player number: 1
+Round 1: Played against Tee, Benjamin (Position 15) - Result: W
+Round 2: Played against Xu, Leo (Position 17) - Result: W
+Round 3: Played against Cantafio, Alexander (Position 2) - Result: L
+Round 4: Played against Qian, Linda (Position 18) - Result: W
+Round 5: Played against Liu, Max (Qixuan) (Position 26) - Result: W
+Round 6: Played against Arav, Nathan (Position 8) - Result: W
+Round 7: Played against Ong, Jonathan (Position 11) - Result: W
+Round 8: Played against Nguyen, Vu Ky Anh (Position 3) - Result: W
+Round 9: Played against Liu, Josh (Position 5) - Result: D
+
