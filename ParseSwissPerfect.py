@@ -62,12 +62,49 @@ def display_results(results):
     for result in results:
         print(f"Round {result['round']}: Played against {result['opponent_name']} (Position {result['opponent_position']}) - Result: {result['result']}")
 
+# Function to print pairings for a specific round
+def print_round(round_number):
+    filename = "nswjcl-junior-u18-reserve-championship.txt"
+    players = parse_file(filename)
+    
+    pairings = []
+    
+    for player in players:
+        if len(player.results) >= round_number:
+            result = player.results[round_number - 1]
+            opponent_number, outcome = result.split(':')
+            opponent_number = int(opponent_number)
+            outcome = outcome.strip()
+            
+            opponent = next((p for p in players if p.number == opponent_number), None)
+            opponent_name = opponent.name if opponent else "Unknown"
+            
+            if outcome == 'W':
+                result_string = "1 - 0"
+            elif outcome == 'L':
+                result_string = "0 - 1"
+            else:
+                result_string = "1/2 - 1/2"
+            
+            pairings.append(f"{player.number} {player.name} {result_string} {opponent_number} {opponent_name}")
+    
+    for pairing in pairings:
+        print(pairing)
+
+
 # Main program
 if __name__ == "__main__":
+
+    # https://www.nswjcl.org.au/Results/2024/Orange2024WinterTournament.htm
+    # https://www.nswjcl.org.au/Results/2024/j24nj18r.htm
     filename = "nswjcl-junior-u18-reserve-championship.txt"
     players = parse_file(filename)
 
+    # Prnt result for a player
     player_number = int(input("Enter the player number: "))
     results = get_player_results(players, player_number)
     display_results(results)
 
+    # Print pairing for a round
+    round_number = int(input("Enter the round number: "))
+    print_round(round_number)
