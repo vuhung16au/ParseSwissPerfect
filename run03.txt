@@ -1,0 +1,52 @@
+vhmac:03.SwissPerfect vuhung$ python3 ParseSwissPerfect.py 
+Enter the player number: 1
+Round 1: Played against Tee, Benjamin (Position 15) - Result: W
+Round 2: Played against Xu, Leo (Position 17) - Result: W
+Round 3: Played against Cantafio, Alexander (Position 2) - Result: L
+Round 4: Played against Qian, Linda (Position 18) - Result: W
+Round 5: Played against Liu, Max (Qixuan) (Position 26) - Result: W
+Round 6: Played against Arav, Nathan (Position 8) - Result: W
+Round 7: Played against Ong, Jonathan (Position 11) - Result: W
+Round 8: Played against Nguyen, Vu Ky Anh (Position 3) - Result: W
+Round 9: Played against Liu, Josh (Position 5) - Result: D
+Enter the round number: 1
+1 Gondo, Alex 1 - 0 15 Tee, Benjamin
+2 Cantafio, Alexander 1 - 0 32 Tran, Aeon
+3 Nguyen, Vu Ky Anh 1 - 0 22 Ding, Daniel
+4 Chan, Nestor 1 - 0 21 Zhou, Clara
+5 Liu, Josh 1 - 0 30 Unknown
+6 Pires da Silva, Gabriel 1 - 0 24 Unknown
+7 Huang, Aaron 1/2 - 1/2 38 Ma, Yoanna
+8 Arav, Nathan 1 - 0 16 Rupasinghe, Chanya
+9 Salek, Oscar 1 - 0 34 Lyu, Taida
+10 Zhang, Michael 1 - 0 39 Zhang, Emma (Zihan)
+11 Ong, Jonathan 1 - 0 23 Su, Joey
+12 Maleki, Aiden 1 - 0 29 Zeng, Felix
+13 Woon, Ella 1 - 0 43 Cheng, Jason
+14 Ye, Austin 1 - 0 40 Purohit, Ishani
+15 Tee, Benjamin 0 - 1 1 Gondo, Alex
+16 Rupasinghe, Chanya 0 - 1 8 Arav, Nathan
+17 Xu, Leo 1 - 0 44 Roberts, Graham
+18 Qian, Linda 1 - 0 33 Magesh, Devahuti
+19 Steinthal, Joshua 1/2 - 1/2 27 Wang, Jonathan
+20 Huang, Yuan 1/2 - 1/2 25 Tran, William
+21 Zhou, Clara 0 - 1 4 Chan, Nestor
+22 Ding, Daniel 0 - 1 3 Nguyen, Vu Ky Anh
+23 Su, Joey 0 - 1 11 Ong, Jonathan
+25 Tran, William 1/2 - 1/2 20 Huang, Yuan
+26 Liu, Max (Qixuan) 1 - 0 36 Varthakavi, Isobel
+27 Wang, Jonathan 1/2 - 1/2 19 Steinthal, Joshua
+28 Manoji, Deves 1 - 0 37 Unknown
+29 Zeng, Felix 0 - 1 12 Maleki, Aiden
+31 Ye, Thomas 1 - 0 41 Unknown
+32 Tran, Aeon 0 - 1 2 Cantafio, Alexander
+33 Magesh, Devahuti 0 - 1 18 Qian, Linda
+34 Lyu, Taida 0 - 1 9 Salek, Oscar
+35 Cheng, Nathan 1/2 - 1/2 0 Unknown
+36 Varthakavi, Isobel 0 - 1 26 Liu, Max (Qixuan)
+38 Ma, Yoanna 1/2 - 1/2 7 Huang, Aaron
+39 Zhang, Emma (Zihan) 0 - 1 10 Zhang, Michael
+40 Purohit, Ishani 0 - 1 14 Ye, Austin
+43 Cheng, Jason 0 - 1 13 Woon, Ella
+44 Roberts, Graham 0 - 1 17 Xu, Leo
+vhmac:03.SwissPerfect vuhung$ 
