@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Round Pairings</title>
+</head>
+<body>
+    <h1>Pairings for Round {{ round_number }}</h1>
+    <ul>
+        {% for pairing in pairings %}
+            <li>{{ pairing }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Back to Home</a>
+</body>
+</html>

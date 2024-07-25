@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chess Tournament</title>
+</head>
+<body>
+    <h1>Upload Vega File</h1>
+    <form action="/" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="Upload">
+    </form>
+
+    {% if players %}
+        <h2>Get Player Results</h2>
+        <form action="/player_results" method="post">
+            <input type="number" name="player_number" placeholder="Enter player number" required>
+            <input type="submit" value="Get Results">
+        </form>
+
+        <h2>Get Round Pairings</h2>
+        <form action="/round_pairings" method="post">
+            <input type="number" name="round_number" placeholder="Enter round number" required>
+            <input type="submit" value="Get Pairings">
+        </form>
+    {% endif %}
+</body>
+</html>
