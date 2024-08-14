@@ -104,5 +104,11 @@ def round_pairings():
     pairings = print_round(players, round_number)
     return render_template('pairings.html', pairings=pairings, round_number=round_number)
 
+@app.route('/standings')
+def standings():
+    filepath = os.path.join(app.config['UPLOAD_FOLDER'], os.listdir(app.config['UPLOAD_FOLDER'])[0])
+    players = parse_file(filepath)
+    return render_template('standings.html', players=players)
+
 if __name__ == '__main__':
     app.run(debug=True)
